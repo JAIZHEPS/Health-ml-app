@@ -11,8 +11,7 @@ It demonstrates how machine learning can be applied in healthcare to assist in e
 
 🚀 Live Demo
 
-🔗 Add your deployed link here (after deploying on Streamlit Cloud)
-
+🔗 https://health-ml-app-w3trjt7crpjzw8h4of74zv.streamlit.app/
 🧠 Problem Statement
 
 Healthcare risk prediction often requires analyzing multiple factors such as lifestyle habits, medical history, and physiological parameters.
